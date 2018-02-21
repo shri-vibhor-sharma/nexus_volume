@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<repository-metadata>
+  <version>1.0.0</version>
+  <url>@rootUrl@/content/repositories/my-mule-repo</url>
+  <id>my-mule-repo</id>
+  <name>my-mule-repo-name</name>
+  <layout>maven2</layout>
+  <policy>release</policy>
+</repository-metadata>

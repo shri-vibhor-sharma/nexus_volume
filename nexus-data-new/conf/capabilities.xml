@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<capabilitiesConfiguration>
+  <version>2.0.0</version>
+  <capabilities>
+    <capability>
+      <version>1</version>
+      <id>000002c9b5467c04</id>
+      <notes>Automatically added on Mon Feb 19 20:13:41 UTC 2018</notes>
+      <typeId>OutreachManagementCapability</typeId>
+      <properties>
+        <property>
+          <key>baseUrl</key>
+          <value>http://links.sonatype.com/products/nexus/outreach</value>
+        </property>
+      </properties>
+    </capability>
+    <capability>
+      <version>1</version>
+      <id>000002c9b5467c05</id>
+      <notes>Automatically added on Mon Feb 19 20:13:41 UTC 2018</notes>
+      <typeId>OutreachMarkerCapability</typeId>
+    </capability>
+    <capability>
+      <version>1</version>
+      <id>000002c9b5467c06</id>
+      <notes>Automatically added on Mon Feb 19 20:13:42 UTC 2018</notes>
+      <typeId>yum</typeId>
+      <properties>
+        <property>
+          <key>maxNumberParallelThreads</key>
+          <value>10</value>
+        </property>
+        <property>
+          <key>createrepoPath</key>
+          <value>createrepo</value>
+        </property>
+        <property>
+          <key>mergerepoPath</key>
+          <value>mergerepo</value>
+        </property>
+      </properties>
+    </capability>
+    <capability>
+      <version>1</version>
+      <id>000002c9b5467c07</id>
+      <notes>Automatically added on Mon Feb 19 20:13:42 UTC 2018</notes>
+      <enabled>false</enabled>
+      <typeId>analytics.collection</typeId>
+      <properties>
+        <property>
+          <key>hostId</key>
+          <value>9069461d-c360-4519-866b-e8b7798bd10d</value>
+        </property>
+        <property>
+          <key>salt</key>
+          <value>RzO4gU7qsrUB+jHF0HfafnMGaKwXGVCXy/MEshG8oMdd</value>
+        </property>
+      </properties>
+    </capability>
+    <capability>
+      <version>1</version>
+      <id>000002c9b5467c08</id>
+      <notes>Automatically added on Mon Feb 19 20:13:42 UTC 2018</notes>
+      <enabled>false</enabled>
+      <typeId>analytics.autosubmit</typeId>
+    </capability>
+  </capabilities>
+</capabilitiesConfiguration>
